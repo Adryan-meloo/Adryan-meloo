@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Estudante de Desenvolvimento Web<br>Email: adryan.george.ti@gmail.com<br>
+Graduando em Análise e Desenvolvimento de Sistemas<br>Desenvolvedor de Aplicações Web<br>Email: adryan.george.ti@gmail.com<br>
 
 
 ## 🌐 Social:
