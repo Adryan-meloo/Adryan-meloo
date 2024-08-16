@@ -1,7 +1,7 @@
 # Apresentação 🎧
 > Sou o Adryan, Graduando em Análise e Desenvolvimento de Sistemas
 >
-> Autodidata em Desenvolvimento Web, focado em Front end e Design
+> Foco em Desenvolvimento Web Front end e Design
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adryan-george-melo-62831b300)
 
