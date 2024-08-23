@@ -3,7 +3,11 @@
 >
 > Foco em Desenvolvimento Web Front end e Design
 
+---
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/adryan-george-melo-62831b300)
+
+Email: adryan.george.ti@gmail.com
 
 ---
 
