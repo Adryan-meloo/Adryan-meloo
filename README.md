@@ -1,7 +1,7 @@
 # Apresentação 🎧
 > Sou o Adryan, Graduando em Análise e Desenvolvimento de Sistemas
 >
-> Foco em Desenvolvimento Web Front end e Design
+> Foco em Desenvolvimento Web
 
 ---
 
