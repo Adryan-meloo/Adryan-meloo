@@ -1,5 +1,5 @@
 # Apresentação 🎧
-> Sou o Adryan, Graduando em Análise e Desenvolvimento de Sistemas
+> Sou Adryan, Graduando em Análise e Desenvolvimento de Sistemas
 >
 > Foco em Desenvolvimento Web
 > 
